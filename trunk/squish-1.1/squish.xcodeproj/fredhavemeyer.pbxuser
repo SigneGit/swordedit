@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 5C868E7D0DEB79BF0019EC7C /* squishpng */;
+		activeTarget = 133427850ACC587F00F54FA3 /* squish */;
+		codeSenseManager = 5C868E860DEB79D10019EC7C /* Code sense */;
+		executables = (
+			5C868E7D0DEB79BF0019EC7C /* squishpng */,
+			5C868E7E0DEB79BF0019EC7C /* squishtest */,
+			5C868E7F0DEB79BF0019EC7C /* squishgen */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					131,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					120,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 234671167;
+			PBXWorkspaceStateSaveDate = 234671167;
+		};
+		sourceControlManager = 5C868E850DEB79D10019EC7C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	133427850ACC587F00F54FA3 /* squish */ = {
+		activeExec = 0;
+	};
+	133427870ACC587F00F54FA3 /* squish-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1138, 704}}";
+			sepNavSelRange = "{422, 0}";
+			sepNavVisRect = "{{0, 0}, {1138, 704}}";
+			sepNavWindowFrame = "{{499, 45}, {1177, 833}}";
+		};
+	};
+	1342B4100999DE7F00152915 /* squishpng */ = {
+		activeExec = 0;
+		executables = (
+			5C868E7D0DEB79BF0019EC7C /* squishpng */,
+		);
+	};
+	1342B4360999E07C00152915 /* squishtest */ = {
+		activeExec = 0;
+		executables = (
+			5C868E7E0DEB79BF0019EC7C /* squishtest */,
+		);
+	};
+	1350D718092AA858005EE038 /* squish.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {753, 3360}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 1859}, {753, 619}}";
+		};
+	};
+	1350D719092AA858005EE038 /* squish.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {753, 3472}}";
+			sepNavSelRange = "{8751, 0}";
+			sepNavVisRect = "{{0, 2493}, {753, 619}}";
+			sepNavWindowFrame = "{{776, 130}, {792, 748}}";
+		};
+	};
+	139C21C309ADAA7000A2500D /* squishgen */ = {
+		activeExec = 0;
+		executables = (
+			5C868E7F0DEB79BF0019EC7C /* squishgen */,
+		);
+	};
+	5C868E7D0DEB79BF0019EC7C /* squishpng */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = squishpng;
+		sourceDirectories = (
+		);
+	};
+	5C868E7E0DEB79BF0019EC7C /* squishtest */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = squishtest;
+		sourceDirectories = (
+		);
+	};
+	5C868E7F0DEB79BF0019EC7C /* squishgen */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = squishgen;
+		sourceDirectories = (
+		);
+	};
+	5C868E850DEB79D10019EC7C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	5C868E860DEB79D10019EC7C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D2AAC045055464E500DB518D /* libsquish */ = {
+		activeExec = 0;
+	};
+}
