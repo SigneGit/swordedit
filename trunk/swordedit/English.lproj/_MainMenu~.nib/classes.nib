@@ -1,0 +1,113 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                close = id; 
+                loadMap = id; 
+                saveFile = id; 
+                setNewBitmaps = id; 
+                showAboutBox = id; 
+            }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                bitmapLocationText = id; 
+                bitmapView = id; 
+                loadProgressBar = id; 
+                loadText = id; 
+                loadWindow = id; 
+                mainWindow = id; 
+                outputScroller = id; 
+                prefsWindow = id; 
+                rendView = id; 
+                spawnEditor = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {extractTexture = id; }; 
+            CLASS = BitmapView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {bitmapList = id; subImageList = id; }; 
+            SUPERCLASS = NSOpenGLView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = ModelView; LANGUAGE = ObjC; SUPERCLASS = NSOpenGLView; }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {
+            ACTIONS = {
+                buttonPressed = id; 
+                changeRenderStyle = id; 
+                duplicateSelectedItem = id; 
+                killKeys = id; 
+                orientCamera = id; 
+                recenterCamera = id; 
+                renderBSPNumber = id; 
+                setCameraSpawn = id; 
+                setRenderStyle = id; 
+                setSelectionMode = id; 
+                sliderChanged = id; 
+            }; 
+            CLASS = RenderView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "b_deleteSelected" = id; 
+                bspNumbersButton = id; 
+                buttonPoints = id; 
+                buttonShadedFaces = id; 
+                buttonTextured = id; 
+                buttonWireframe = id; 
+                duplicateSelected = id; 
+                fpsText = id; 
+                framesSlider = id; 
+                lodDropdownButton = id; 
+                "m_MoveCamera" = id; 
+                "m_SelectMode" = id; 
+                "m_TranslateMode" = id; 
+                "m_duplicateSelected" = id; 
+                moveCameraMode = id; 
+                pointsItem = id; 
+                "s_accelerationSlider" = id; 
+                "s_accelerationText" = id; 
+                "s_spawnCreateButton" = id; 
+                "s_spawnEditWindowButton" = id; 
+                "s_spawnTypePopupButton" = id; 
+                "s_xRotText" = id; 
+                "s_xRotation" = id; 
+                "s_yRotText" = id; 
+                "s_yRotation" = id; 
+                "s_zRotText" = id; 
+                "s_zRotation" = id; 
+                selectMode = id; 
+                selectText = id; 
+                selectedName = id; 
+                selectedSwapButton = id; 
+                selectedType = id; 
+                shadedTrisItem = id; 
+                texturedItem = id; 
+                translateMode = id; 
+                useAlphaCheckbox = id; 
+                wireframeItem = id; 
+            }; 
+            SUPERCLASS = NSOpenGLView; 
+        }, 
+        {
+            ACTIONS = {buttonAction = id; }; 
+            CLASS = SpawnEditorController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_contentView" = id; 
+                activateScen = id; 
+                activeSceneryRef = id; 
+                deactivateScen = id; 
+                inactiveSceneryRef = id; 
+                scenRefView = id; 
+                spawnEditorTable = id; 
+                testView = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = TagView; LANGUAGE = ObjC; SUPERCLASS = NSOutlineView; }
+    ); 
+    IBVersion = 1; 
+}
