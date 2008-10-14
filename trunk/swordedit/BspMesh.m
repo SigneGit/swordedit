@@ -2,8 +2,8 @@
 //  BspMesh.m
 //  swordedit
 //
-//  Created by Fred Havemeyer on 10/28/07.
-//  Copyright 2007 __MyCompanyName__. All rights reserved.
+//  Created by sword on 10/28/07.
+//  Copyright 2007 sword Inc. All rights reserved.
 //
 
 #import "BspMesh.h"

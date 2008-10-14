@@ -2,7 +2,7 @@
 //  ModelTag.m
 //  swordedit
 //
-//  Created by Fred Havemeyer on 5/11/08.
+//  Created by sword on 5/11/08.
 //
 
 #import "ModelTag.h"

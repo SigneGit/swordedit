@@ -2,8 +2,8 @@
 //  ModelView.h
 //  swordedit
 //
-//  Created by Fred Havemeyer on 6/2/08.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
+//  Created by sword on 6/2/08.
+//  Copyright 2008 sword Inc. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>

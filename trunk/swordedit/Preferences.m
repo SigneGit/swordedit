@@ -2,8 +2,8 @@
 //  Preferences.m
 //  swordedit
 //
-//  Created by Fred Havemeyer on 8/30/08.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
+//  Created by sword on 8/30/08.
+//  Copyright 2008 sword Inc. All rights reserved.
 //
 
 #import "Preferences.h"

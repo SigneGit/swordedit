@@ -2,8 +2,8 @@
  *  defines.h
  *  swordedit
  *
- *  Created by Fred Havemeyer on 5/11/08.
- *  Copyright 2008 __MyCompanyName__. All rights reserved.
+ *  Created by sword on 5/11/08.
+ *  Copyright 2008 sword Inc. All rights reserved.
  *
  */
  
