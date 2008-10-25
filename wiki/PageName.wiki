@@ -11,4 +11,5 @@ Here is the to-do list for the swordedit project.
   # Remove the BitmapView and ModelView classes - replace them with connections to the RenderView controller and have them served by the rendering class.
   # Update with better PPC support
   # Fix the object-selection problems (ie you click on an object and swordedit misses it slightly or selects the adjacent object)
+  # Create fully working preferences menu
   # Add full-screen support with OpenGL rendered menus
