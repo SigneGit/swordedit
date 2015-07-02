@@ -1,0 +1,3 @@
+swordedit is a Halo: Combat Evolved scenario editor that allows a user to make any changes to a map's scenario that he or she wishes. swordedit renders the maps in a 3D, fully textured format which lets the user edit anything that is present on a map with an easy to use graphical interface.
+
+![http://img.photobucket.com/albums/v291/swordswinger9/Picture8-8.png](http://img.photobucket.com/albums/v291/swordswinger9/Picture8-8.png)
